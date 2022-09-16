@@ -1,0 +1,50 @@
+body{
+     background-image:url(dog.png) ;
+     background-repeat: no-repeat;
+     background-size: 100%;
+    
+
+}
+
+.cabeça{
+     
+    background-color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 60%; 
+    float: left;
+    height: 30%; 
+    
+    
+}
+.menu{ 
+    background-color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 40%; 
+    float: right;
+
+    height: 30%;
+    
+
+}
+.menu li{ 
+    text-align: right;
+    display: inline;
+    text-decoration: none;
+ 
+}
+
+.conteudo{
+     text-align: left; 
+     background-color: gray; 
+     height: 20%;
+    
+
+
+}
+.conteudo2{ 
+    background-color: rgb(186, 177, 177);
+    padding-left: 3%;
+    padding-right: 15%;
+
+}
+
