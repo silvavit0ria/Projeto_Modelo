@@ -23,6 +23,7 @@ body{
     float: right;
 
     height: 30%;
+
     
 
 }
@@ -47,4 +48,34 @@ body{
     padding-right: 15%;
 
 }
+.contato{
+     
+    background-color: rgb(245, 245, 30);
+    font-size: larger;
+    width: 30%;
+    text-align: center;
+ 
+}
+.contato1{
+    background-color: white; 
+    text-align: center;
 
+}
+.rodape{
+    background-image: url(pata-de-design-de-logotipo-de-animal-de-estimacao-vetor-para-loja-de-animais_53876-136741.jpg)
+    ;
+    background-size: 5%;
+   
+}
+.p{
+      text-align: left;
+      background-color:rgb(223, 223, 217) ;
+
+}
+.logo{
+    background-image: url(pata-de-design-de-logotipo-de-animal-de-estimacao-vetor-para-loja-de-animais_53876-136741.jpg)
+    ;
+    background-size: 5%;
+
+
+}
