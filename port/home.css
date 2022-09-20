@@ -1,0 +1,52 @@
+body{
+    color:black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: white  url(mm.png);
+    
+    background-size: 100%;
+}
+
+.container{
+    width:80%;
+    background-color:white;
+    margin-left: 10%;
+}
+
+.menu{
+    background-color: rgb(97, 215, 209);
+
+}
+    
+.menu li{
+    display: inline;
+    padding: 5%;
+
+}
+.content{
+width: 64%;
+float: left;
+background-color: white;
+font-size: 90%;
+padding-left: 3%;
+padding-right: 3%; }
+
+.form{
+    text-align: left;
+    margin: 3%;
+
+}
+
+.form strong{
+  margin: 1%
+   ;
+    text-align: left;
+}
+
+.footer{
+ 
+    background-color: rgb(97, 215, 209) ;
+
+}
+
+
