@@ -46,7 +46,19 @@ padding-right: 3%; }
 .footer{
  
     background-color: rgb(97, 215, 209) ;
+    clear: both;
+    text-align: left;
+    
 
+}
+.footer strong
+{
+   text-align: center;
+
+}
+.mapa{
+
+    text-align: center;
 }
 
 
