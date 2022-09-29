@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #751921;
+}
+
+#container {
+    margin: 15em auto;
+    width: 90%;
+    background: #751921;
+}
+/* visual do header */
+#header {
+    background: #9b2f25 url("../img/Backgroundheader.jpg") no-repeat;
+    background-size: 100%;
+    text-align: center;
+    height: 150px;
+}
+/*Visual do menu principal*/
+#mainav {
+    background: #d5502a;
+    text-align: center;
+}
+
+#mainav ul {
+    margin: 0 0 0 20px;
+    padding: 0;
+    list-style-type: none;
+    border-left: 1px solid #000;
+}
+
+#mainav li{
+    display: inline;
+    padding: 0 10px;
+}
+/*Visual do menu lateral*/
+#menu {
+    float: right;
+    width: 200px;
+    background: #ff8b3f;
+}
+
+#menu ul li {
+    margin: 0 0 1em;
+    padding: 0;
+    list-style-type: none;
+}
+
+
+/*Visual do conteudo*/
+#contents {
+    float: left;
+    width: 1079px;
+    background: #ffd447;
+    margin: 0 0 0 0px;
+}
+
+.imgcontent {
+    float: right;
+    padding: 2px;
+    margin: 0 0 10px 10px;
+}
+
+/*Visual do rodapé*/
+#footer {
+    clear: both;
+    background-color: #ff8e67;
+    text-align: center;
+}
+
